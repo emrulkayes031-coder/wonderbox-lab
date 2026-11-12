@@ -1,0 +1,12 @@
+{
+  "name": "wonder-box-lab",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "The static website for Wonder Box Lab — an independent product and technology brand.",
+  "scripts": {
+    "build": "node src/build.mjs",
+    "preview": "python3 -m http.server 4173 --directory dist",
+    "og": "python3 src/og-generate.py"
+  }
+}
