@@ -1,0 +1,16 @@
+node_modules/
+.review/
+.DS_Store
+*.log
+
+# Local secrets and tooling — never commit these
+.env
+.env.*
+.dev.vars
+.wrangler/
+*.pem
+*.key
+credentials.json
+
+# Local deployment archive
+/dist.zip

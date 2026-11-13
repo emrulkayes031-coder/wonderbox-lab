@@ -3,7 +3,7 @@ export const site = {
   legalName: "Wonder Box Lab",
   email: "emrulkayes031@gmail.com",
   // Cloudflare Pages project URL. Update this if the project name or custom domain differs.
-  siteUrl: "https://wonder-box-lab.pages.dev/",
+  siteUrl: "https://wonderbox-lab.pages.dev/",
   description:
     "Wonder Box Lab is an independent product and technology brand building games today, and thoughtful apps, AI tools, and software next.",
   shortDescription:
